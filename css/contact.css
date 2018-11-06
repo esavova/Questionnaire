@@ -1,0 +1,51 @@
+input[type="text"], input[type="textfield"], input[type="email"] {
+    /*
+    
+    Should Contain...
+        - Width - 30 horizontal width
+        - Height - 100px
+        - Background - #f1f0ee
+        - Font color - Black
+        - Font family - Poiret One
+        - Box Shadow - 2px offset 10px deep and black
+        - Rounded Border - Maybe 20px?
+        - Border - darkslategrey thin
+
+    */
+}
+
+input[type="text"]:focus, input[type="textfield"]:focus, input[type="email"]:focus {
+    transition: 0.3s;
+    /*
+
+    Should Contain...
+        - No box shadow
+        - Change Border color (Maybe a light gold?)
+    */
+}
+
+input[type="submit"] {
+    /*
+
+    Should Contain...
+        - Width - 10 horizontal width
+        - Height - 90px
+        - Background - #8A2BE2
+        - Font Color - #f1f0ee
+        - Border - #9932CC thin
+        - Border Radius - 10px
+        - Box Shadow - 2px offset 10px deep black
+
+    */
+}
+
+input[type="submit"]:hover {
+    /*
+
+    Should Contain...
+        - no box shadow
+        - cursor pointer
+
+    */
+}
+

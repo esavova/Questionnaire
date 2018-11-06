@@ -1,0 +1,16 @@
+{
+    "Questions" : [
+        {
+            "Comment": "THIS ISNT A REAL OBJECT. Since Json doesn't allow comments I need to make a fake object.",
+            "Comment2": "Please create 17 more questions. 5 more easy, 6 medium, and 6 hard",
+            "Comment3": "put 0 for easy, 1 for medium and 2 for hard",
+            "Comment4": "Finally put all answers in caps"
+        },
+        {
+            "id": 1,
+            "question": "What is the dining hall name?",
+            "answer": "PIERCE",
+            "difficulty": 0
+        }
+    ]   
+}
