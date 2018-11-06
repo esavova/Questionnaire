@@ -11,7 +11,10 @@ DON'T EDIT ANY PAGE BESIDES WHAT YOU HAVE BEEN ASSIGNED!
 
 COMPLETE THIS BY 11/10 PLEASE SO I HAVE TIME TO PUT IT ALL TOGETHER ON SUNDAY!
 
-Guo - contact.html and contact.css \n
+Guo - contact.html and contact.css
+
 Yakov - difficulty.html, results.html and results.css
+
 Rana - test.html and test.css
+
 Savova - questions.json   <----- Let me know if you need help its not hard just different
