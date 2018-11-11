@@ -11,6 +11,108 @@
             "question": "What is the dining hall name?",
             "answer": "PIERCE",
             "difficulty": 0
+        },
+        {
+            "id": 2,
+            "question": "What animal is the Stevens Mascot?",
+            "answer": "DUCK",
+            "difficulty": 0
+        },
+                {
+            "id": 3,
+            "question": "Does the president of Stevens live on campus?",
+            "answer": "YES",
+            "difficulty": 0
+        },
+        {
+            "id": 4,
+            "question": "Does Stevens have a bowling alley?",
+            "answer": "YES",
+            "difficulty": 0
+        },
+                {
+            "id": 5,
+            "question": "How many outdoor volleyball courts are there on campus?",
+            "answer": "1",
+            "difficulty": 0
+        },
+        {
+            "id": 6,
+            "question": "On what day of the week can you meal exchange on Washington?",
+            "answer": "WEDNESDAY",
+            "difficulty": 0
+        },
+            {
+            "id": 7,
+            "question": "How many restaurants accept meal exchanges on Washington Street?",
+            "answer": "4",
+            "difficulty": 1
+        },
+        {
+            "id": 8,
+            "question": "I pledge __ _____ that I have abided by the Stevens Honor System.",
+            "answer": "MY HONOR",
+            "difficulty": 1
+        },
+            {
+            "id": 9,
+            "question": "What is the maximum number of credits you can take per semester without overloading?",
+            "answer": "20",
+            "difficulty": 1
+        },
+        {
+            "id": 10,
+            "question": "What is the Stevens-created online platform for math problems called?",
+            "answer": "GRADARIUS",
+            "difficulty": 1
+        },
+        {
+            "id": 11,
+            "question": "Where do you go if you need help with writing and essays?",
+            "answer": "WCC",
+            "difficulty": 1
+        },
+        {
+            "id": 12,
+            "question": "What division is Stevens Institue of Technology, regarding athletics? It is D _?",
+            "answer": "3",
+            "difficulty": 1
+        },
+        {
+            "id": 13,
+            "question": "The 4+1 program is now called the _ _ _ (abbreviated)",
+            "answer": "AMP",
+            "difficulty": 2
+        },
+        {
+            "id": 14,
+            "question": "Under which building is there a garage?",
+            "answer": "BABBIO",
+            "difficulty": 2
+        },
+        {
+            "id": 15,
+            "question": "Which building has the fastest elevator?",
+            "answer": "Howe",
+            "difficulty": 2
+        },
+        {
+            "id": 16,
+            "question": "Most of the Stevens students are male or female?",
+            "answer": "MALE",
+            "difficulty": 2
+        },
+        {
+            "id": 17,
+            "question": "With what app can you change the music in Pierce Dining Hall?",
+            "answer": "ROCKBOT",
+            "difficulty": 2
+        },
+        {
+            "id": 18,
+            "question": "How many digits are Stevens ID numbers?",
+            "answer": "8",
+            "difficulty": 2
         }
     ]   
 }
